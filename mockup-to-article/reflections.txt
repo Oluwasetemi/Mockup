@@ -1,9 +1,15 @@
 You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
-  * What new skills have you learned?
-  * What has been easy?
-  * What has been difficult?
-  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  
+* What new skills have you learned?
+ 
+I have learnt how to use basic html element, write markdown and use slack . I have learnt how to use github.
+ * What has been easy?
+ 
+Not really, Its been a challenging task.
+ * What has been difficult?
+  
+Writing the mockup is a true test to understanding the basic html elements and their usage.
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
 
----
 
-Your response goes here!
+They have helped greatly with taking time to study how to use the markup language and it syntax.
